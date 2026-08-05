@@ -1,0 +1,21 @@
+{
+  "id": "the_empty_throne",
+  "name": "The Empty Throne",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 180,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "quest_system"
+  ],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A Quest System-compatible final Rocket adventure unlocked after the Earth Badge. Descend beneath Viridian Gym, survive an elite succession gauntlet, make consequential moral choices and defeat Commander Vesper's full high-level team.",
+  "affects_link": false
+}

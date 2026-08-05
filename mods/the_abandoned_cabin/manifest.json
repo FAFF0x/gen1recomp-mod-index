@@ -1,0 +1,21 @@
+{
+  "id": "the_abandoned_cabin",
+  "name": "The Abandoned Cabin",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 130,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "quest_system"
+  ],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A Quest System-compatible adventure unlocked after the Thunder Badge. Follow a sailor's report to an abandoned Route 11 cabin, solve a generator puzzle, defeat a maximum-stat Magneton experiment and rescue a perfect Electabuzz.",
+  "affects_link": false
+}

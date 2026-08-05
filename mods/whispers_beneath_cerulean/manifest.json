@@ -1,0 +1,21 @@
+{
+  "id": "whispers_beneath_cerulean",
+  "name": "Whispers Beneath Cerulean",
+  "version": "1.0.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 120,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "quest_system"
+  ],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A Quest System-compatible adventure unlocked after the Cascade Badge. Explore a custom canal dungeon beneath Cerulean, activate three valves, defeat contaminated Water Pokemon and rescue a Starmie with maximum DVs and EVs.",
+  "affects_link": false
+}

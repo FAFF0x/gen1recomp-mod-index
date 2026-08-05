@@ -1,0 +1,21 @@
+{
+  "id": "the_black_flower",
+  "name": "The Black Flower",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 140,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "quest_system"
+  ],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A Quest System-compatible adventure unlocked after the Rainbow Badge. Help Erika explore a corrupted secret garden, survive black spores, defeat possessed Grass Pokemon and destroy the Black Flower's Victreebel guardian.",
+  "affects_link": false
+}

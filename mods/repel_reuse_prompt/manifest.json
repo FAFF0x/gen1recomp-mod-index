@@ -1,0 +1,21 @@
+{
+  "id": "repel_reuse_prompt",
+  "name": "Repel Reuse Prompt",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 135,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [
+    "modern_bag"
+  ],
+  "conflicts": [],
+  "description": "Asks whether to use another Repel when the current Repel wears off.",
+  "affects_link": false
+}

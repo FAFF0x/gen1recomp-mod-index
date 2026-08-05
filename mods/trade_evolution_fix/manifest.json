@@ -1,0 +1,16 @@
+{
+  "id": "trade_evolution_fix",
+  "name": "Trade Evolution Fix",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 500,
+  "affects_link": true,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Converts the four Generation I trade evolutions into level evolutions at level 40."
+}

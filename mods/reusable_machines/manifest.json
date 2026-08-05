@@ -1,0 +1,23 @@
+{
+  "id": "reusable_machines",
+  "name": "Reusable Machines",
+  "version": "1.0.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 130,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [
+    "modern_bag",
+    "moves_manager",
+    "hm_anywhere"
+  ],
+  "conflicts": [],
+  "description": "Makes TMs reusable, forces HM moves to be forgettable in the normal move-learning menu, and displays each TM/HM move name directly in the Bag.",
+  "affects_link": false
+}

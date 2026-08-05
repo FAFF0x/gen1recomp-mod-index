@@ -1,0 +1,19 @@
+{
+  "id": "team_rocket_returns",
+  "name": "Team Rocket Returns",
+  "version": "1.0.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 500,
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A multi-city post-Giovanni Team Rocket quest with investigations, scaled battles, a hidden laboratory and a Rocket Case menu entry that disappears after completion."
+}

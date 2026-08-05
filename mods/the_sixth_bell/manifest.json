@@ -1,0 +1,19 @@
+{
+  "id": "the_sixth_bell",
+  "name": "The Sixth Bell",
+  "version": "1.1.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 120,
+  "permissions": [],
+  "dependencies": [
+    "quest_system"
+  ],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A Quest System-compatible horror mission unlocked after earning six Badges. Includes conflict-safe Lavender Town NPC interaction and rewards Gengar.",
+  "affects_link": false
+}
