@@ -1,0 +1,17 @@
+{
+  "id": "new_game_plus",
+  "name": "New Game Plus",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 320,
+  "affects_link": false,
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Post-League New Game Plus with stronger trainers and wild Pokemon, Gym Leader rematches, optional bosses, rewards, and repeatable difficulty cycles."
+}

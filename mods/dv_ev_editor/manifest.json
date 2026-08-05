@@ -1,0 +1,17 @@
+{
+  "id": "dv_ev_editor",
+  "name": "DV EV Editor",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 500,
+  "affects_link": true,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Adds an out-of-battle DV and Stat EXP editor to the Pokemon party submenu."
+}

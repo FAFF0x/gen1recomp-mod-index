@@ -1,0 +1,17 @@
+{
+  "id": "move_inspector",
+  "name": "Move Inspector",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 100,
+  "affects_link": false,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Shows type, PP, power, accuracy, effectiveness and STAB for the highlighted battle move. Works with classic and wide battle layouts."
+}

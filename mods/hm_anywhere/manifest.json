@@ -1,0 +1,19 @@
+{
+  "id": "hm_anywhere",
+  "name": "HM Anywhere",
+  "version": "1.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "MECHANIC",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 610,
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Use owned HMs without teaching them: contextual CUT/SURF/STRENGTH plus a Start-menu HM submenu for FLASH and FLY."
+}

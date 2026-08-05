@@ -1,0 +1,21 @@
+{
+  "id": "item_shortcut",
+  "name": "Item Shortcut",
+  "version": "1.4.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 600,
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [
+    "modern_bag"
+  ],
+  "conflicts": [],
+  "description": "Assign five Bag shortcuts, use one FAST item instantly, and remap any keyboard or controller input by pressing it."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "eevee_three_stones",
+  "name": "The Three-Stone Covenant",
+  "version": "1.0.2",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 560,
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [
+    "quest_system@>=1.0.0"
+  ],
+  "conflicts": [],
+  "description": "A quest unlocked after any three Gym Badges with robust save detection, three elemental trials and all three Eevee evolutions as rewards."
+}

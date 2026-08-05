@@ -1,0 +1,21 @@
+{
+  "id": "poachers_in_the_safari_zone",
+  "name": "Poachers in the Safari Zone",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 150,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "quest_system"
+  ],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A Quest System-compatible Safari Zone operation unlocked after the Soul Badge. Track illegal poachers with a temporary team of rescued Safari Pokemon, evade patrols, survive traps and choose a perfect rare Pokemon reward.",
+  "affects_link": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "modern_bag",
+  "name": "Modern Bag",
+  "version": "1.3.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 520,
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Splits the bag into modern pockets, automatically sorts items, adds quick search and removes inventory limits."
+}

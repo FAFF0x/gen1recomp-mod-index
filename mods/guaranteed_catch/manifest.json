@@ -1,0 +1,17 @@
+{
+  "id": "guaranteed_catch",
+  "name": "Guaranteed Catch",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GAMEPLAY",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 1000000,
+  "affects_link": false,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": ["catch_helper"],
+  "conflicts": [],
+  "description": "Makes every registered Poke Ball catch successfully, regardless of HP, status or species catch rate."
+}

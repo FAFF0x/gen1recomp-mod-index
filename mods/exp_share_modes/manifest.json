@@ -1,0 +1,17 @@
+{
+  "id": "exp_share_modes",
+  "name": "EXP Share Modes",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 140,
+  "affects_link": false,
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Adds selectable Off, Classic Even Split, and Modern Progressive EXP sharing modes."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "catch_helper",
+  "name": "Catch Helper",
+  "version": "1.4.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 120,
+  "affects_link": false,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Whole-number catch HUD with a name-anchored owned marker and corrected Ultra Ball progression."
+}

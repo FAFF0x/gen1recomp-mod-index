@@ -1,0 +1,17 @@
+{
+  "id": "moves_manager",
+  "name": "Moves Manager",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 510,
+  "affects_link": true,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Adds a MOVES page to the Pokemon party submenu with full move details, move memory, reordering and legal replacement."
+}

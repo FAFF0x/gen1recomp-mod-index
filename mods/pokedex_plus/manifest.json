@@ -1,0 +1,19 @@
+{
+  "id": "pokedex_plus",
+  "name": "Pokédex Plus",
+  "version": "1.3.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 540,
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Enhances the Pokédex with caught-only indicators, START-button search by name or type, fixed base-stat pages, overlap-safe habitats, evolutions, moves and direct area maps."
+}

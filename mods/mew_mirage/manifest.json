@@ -1,0 +1,17 @@
+{
+  "id": "mew_mirage",
+  "name": "The Mirage of Mew",
+  "version": "1.0.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QUEST",
+  "game_version": ">=0.1.38 <2.0.0",
+  "priority": 510,
+  "affects_link": false,
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "A post-Earth Badge adventure through Pokemon Mansion, Pokemon Tower, Viridian Forest and Seafoam Islands to encounter and catch Mew."
+}
