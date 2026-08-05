@@ -1,0 +1,23 @@
+{
+  "id": "all_tm_shop",
+  "title": "Universal Free TM Shop",
+  "author": "FAFF0x",
+  "summary": "Adds a dedicated free TM Shop to every Poke Mart. Clerks offer the normal shop or a separate catalogue containing all Generation I TMs at no cost.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/all_tm_shop_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.1.38 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "conflicts": [
+    "all_tm_hm_unlocker"
+  ]
+}
