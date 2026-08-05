@@ -1,9 +1,0 @@
-Replaces hidden random grass encounters with visible roaming overworld Pokémon sprites!
-
-Features:
-- Visible 3D & 2D roaming Pokémon (4-5 on small routes, 5-8 on large routes & caves).
-- Authentic Kanto species dispersal for all 151 Gen 1 species (excluding legendaries).
-- Biome-specific species (Caves, Water, Grass, Forests).
-- Dynamic Time-of-Day rotation (MORN, DAY, NITE).
-- 100% Voxel 3D & Follower Mod compatible.
-- Modular architecture ready for Gen 2.
