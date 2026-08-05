@@ -28,6 +28,10 @@ const GOOD_DOWNLOAD = [
   /^https:\/\/github\.com\/[^/]+\/[^/]+\/releases\/latest\/download\/[^/]+\.zip$/,
   /^https:\/\/github\.com\/[^/]+\/[^/]+\/releases\/download\/[^/]+\/[^/]+\.zip$/,
   /^https:\/\/github\.com\/[^/]+\/[^/]+\/archive\/refs\/(heads|tags)\/[^/]+\.zip$/,
+  // Personal indexes may host ready-to-install ZIPs directly in a public
+  // GitHub repository. raw.githubusercontent.com returns the file bytes,
+  // not an HTML page, so it is safe for the launcher's ZIP importer.
+  /^https:\/\/raw\.githubusercontent\.com\/[^/]+\/[^/]+\/[^/]+\/.+\.zip$/,
   /^https:\/\/codeberg\.org\/[^/]+\/[^/]+\/archive\/[^/]+\.zip$/,
   /^https:\/\/gitlab\.com\/[^/]+\/[^/]+\/-\/archive\/[^/]+\/[^/]+\.zip$/,
 ];
@@ -131,7 +135,7 @@ export function checkModFolder(dir, folder, schema) {
   if (meta.downloadURL && !GOOD_DOWNLOAD.some((re) => re.test(meta.downloadURL))) {
     fail(
       'MI303',
-      `downloadURL must resolve straight to a .zip (a /releases/latest/download/ or /archive/refs/ link), not a page: ${meta.downloadURL}`,
+      `downloadURL must resolve straight to a .zip (a release, archive, or raw GitHub file), not a page: ${meta.downloadURL}`,
     );
   }
   if (!meta.github && meta.automatic_version_check) {
