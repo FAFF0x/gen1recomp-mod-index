@@ -14,7 +14,8 @@
   "api": 2,
   "profile": "content",
   "affects_link": false,
-  "dependencies": [
-    "quest_system"
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "permissions": [
+    "engine_internals"
   ]
 }

@@ -13,5 +13,6 @@
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
-  "affects_link": false
+  "affects_link": true,
+  "game_version": ">=0.0.0-0 <2.0.0"
 }

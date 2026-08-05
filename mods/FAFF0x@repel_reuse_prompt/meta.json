@@ -12,5 +12,9 @@
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
-  "affects_link": false
+  "affects_link": false,
+  "game_version": ">=0.1.38 <2.0.0",
+  "permissions": [
+    "engine_internals"
+  ]
 }

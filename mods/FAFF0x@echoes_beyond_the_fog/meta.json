@@ -1,0 +1,24 @@
+{
+  "id": "echoes_beyond_the_fog",
+  "title": "Echoes Beyond the Fog",
+  "author": "FAFF0x",
+  "summary": "A rebuilt post-game lighthouse mystery inspired by the anime's giant Dragonite episode, with coherent custom tilesets, nine handcrafted dungeon floors, visible interaction markers, puzzles and replay…",
+  "version": "2.1.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/echoes_beyond_the_fog_v2.1.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.1.38 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "quest_system"
+  ]
+}
