@@ -1,0 +1,17 @@
+{
+  "id": "area_dexnav",
+  "name": "Area DexNav",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "QOL",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 130,
+  "affects_link": false,
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Press SELECT in the overworld to encounter an uncaught Pokemon from the current area's real encounter table."
+}
