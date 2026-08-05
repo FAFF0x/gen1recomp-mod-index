@@ -1,0 +1,20 @@
+{
+  "id": "poachers_in_the_safari_zone",
+  "title": "Poachers in the Safari Zone",
+  "author": "FAFF0x",
+  "summary": "A Safari Zone quest focused on stopping Pokémon poachers and protecting the reserve.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/poachers_in_the_safari_zone_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

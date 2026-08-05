@@ -1,0 +1,17 @@
+{
+  "id": "guaranteed_catch",
+  "title": "Guaranteed Catch",
+  "author": "FAFF0x",
+  "summary": "Makes every registered Poké Ball successfully catch the opposing Pokémon.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/guaranteed_catch_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

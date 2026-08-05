@@ -1,0 +1,20 @@
+{
+  "id": "team_rocket_returns",
+  "title": "Team Rocket Returns",
+  "author": "FAFF0x",
+  "summary": "A story quest in which Team Rocket resurfaces for a new series of battles and events.",
+  "version": "1.0.1",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/team_rocket_returns_v1.0.1.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

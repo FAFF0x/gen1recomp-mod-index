@@ -1,0 +1,20 @@
+{
+  "id": "the_empty_throne",
+  "title": "The Empty Throne",
+  "author": "FAFF0x",
+  "summary": "A late-game quest built around an absent ruler, new encounters and a hidden threat.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/the_empty_throne_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

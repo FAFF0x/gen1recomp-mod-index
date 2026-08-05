@@ -1,0 +1,17 @@
+{
+  "id": "reusable_machines",
+  "title": "Reusable Machines",
+  "author": "FAFF0x",
+  "summary": "Makes TMs reusable, allows HM moves to be forgotten and shows each machine's move in the Bag.",
+  "version": "1.0.1",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/reusable_machines_v1.0.1.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

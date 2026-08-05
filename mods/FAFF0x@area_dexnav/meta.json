@@ -1,0 +1,17 @@
+{
+  "id": "area_dexnav",
+  "title": "Area DexNav",
+  "author": "FAFF0x",
+  "summary": "Press SELECT in the overworld to encounter an uncaught Pokémon from the current area's encounter table.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/area_dexnav_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rocket_gym_ambushes",
+  "title": "Rocket Gym Ambushes",
+  "author": "FAFF0x",
+  "summary": "Adds Team Rocket ambush encounters tied to Kanto's Gyms and player progression.",
+  "version": "1.0.1",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/rocket_gym_ambushes_v1.0.1.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

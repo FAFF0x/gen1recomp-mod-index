@@ -1,0 +1,20 @@
+{
+  "id": "eevee_three_stones",
+  "title": "The Three-Stone Covenant",
+  "author": "FAFF0x",
+  "summary": "A multi-stage quest featuring Electric, Water and Fire trials, ending with Eevee's evolutions as rewards.",
+  "version": "1.0.2",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/eevee_three_stones_v1.0.2.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ashes_of_cinnabar",
+  "title": "Ashes of Cinnabar",
+  "author": "FAFF0x",
+  "summary": "A new story quest set around Cinnabar Island and the aftermath of its volcanic history.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/ashes_of_cinnabar_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

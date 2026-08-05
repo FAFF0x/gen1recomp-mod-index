@@ -1,0 +1,20 @@
+{
+  "id": "mew_mirage",
+  "title": "The Mirage of Mew",
+  "author": "FAFF0x",
+  "summary": "A post-Earth Badge adventure across Pokémon Mansion, Pokémon Tower, Viridian Forest and Seafoam Islands, culminating in a repeatable Mew encounter.",
+  "version": "1.0.1",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/mew_mirage_v1.0.1.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

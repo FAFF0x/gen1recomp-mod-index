@@ -1,0 +1,17 @@
+{
+  "id": "summon",
+  "title": "Summon",
+  "author": "FAFF0x",
+  "summary": "Adds a SUMMON menu that starts a normal wild encounter using a Pokédex number.",
+  "version": "1.0.0",
+  "categories": [
+    "TOOL",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/summon_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

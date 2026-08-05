@@ -1,0 +1,20 @@
+{
+  "id": "the_black_flower",
+  "title": "The Black Flower",
+  "author": "FAFF0x",
+  "summary": "Help Erika cleanse a corrupted secret garden, survive black spores and defeat a possessed Victreebel.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/the_black_flower_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "move_inspector",
+  "title": "Move Inspector",
+  "author": "FAFF0x",
+  "summary": "Displays type, PP, power, accuracy, effectiveness and STAB information for highlighted battle moves.",
+  "version": "1.0.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/move_inspector_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

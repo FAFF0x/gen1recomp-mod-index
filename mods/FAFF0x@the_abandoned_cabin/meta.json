@@ -1,0 +1,20 @@
+{
+  "id": "the_abandoned_cabin",
+  "title": "The Abandoned Cabin",
+  "author": "FAFF0x",
+  "summary": "A Thunder Badge quest involving strange lights, Route 11 and an abandoned cabin.",
+  "version": "1.0.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/the_abandoned_cabin_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

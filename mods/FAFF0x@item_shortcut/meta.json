@@ -1,0 +1,17 @@
+{
+  "id": "item_shortcut",
+  "title": "Item Shortcut",
+  "author": "FAFF0x",
+  "summary": "Adds five assignable item shortcuts plus a remappable FAST item button for immediate overworld use.",
+  "version": "1.4.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/item_shortcut_v1.4.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "exp_share_modes",
+  "title": "EXP Share Modes",
+  "author": "FAFF0x",
+  "summary": "Adds Off, Classic Even Split and Modern Progressive experience distribution modes.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "BALANCE"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/exp_share_modes_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

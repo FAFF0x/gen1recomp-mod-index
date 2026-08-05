@@ -1,0 +1,20 @@
+{
+  "id": "the_stolen_fossil",
+  "title": "The Stolen Fossil",
+  "author": "FAFF0x",
+  "summary": "Investigate a museum theft after the Boulder Badge and recover a fossil from Mt. Moon.",
+  "version": "1.0.1",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/the_stolen_fossil_v1.0.1.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

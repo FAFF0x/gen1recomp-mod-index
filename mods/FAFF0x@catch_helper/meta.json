@@ -1,0 +1,17 @@
+{
+  "id": "catch_helper",
+  "title": "Catch Helper",
+  "author": "FAFF0x",
+  "summary": "Shows real-time catch chances and an owned-species Poké Ball indicator during wild battles.",
+  "version": "1.4.0",
+  "categories": [
+    "UI",
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/catch_helper_v1.4.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

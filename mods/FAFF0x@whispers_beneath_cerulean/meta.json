@@ -1,0 +1,20 @@
+{
+  "id": "whispers_beneath_cerulean",
+  "title": "Whispers Beneath Cerulean",
+  "author": "FAFF0x",
+  "summary": "Explore contaminated canals beneath Cerulean City after the Cascade Badge and rescue a powerful Starmie.",
+  "version": "1.0.1",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/whispers_beneath_cerulean_v1.0.1.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false,
+  "dependencies": [
+    "quest_system"
+  ]
+}

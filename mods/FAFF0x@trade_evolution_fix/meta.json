@@ -1,0 +1,17 @@
+{
+  "id": "trade_evolution_fix",
+  "title": "Trade Evolution Fix",
+  "author": "FAFF0x",
+  "summary": "Replaces Generation I trade evolutions with level-40 evolutions.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "BALANCE"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/trade_evolution_fix_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}
