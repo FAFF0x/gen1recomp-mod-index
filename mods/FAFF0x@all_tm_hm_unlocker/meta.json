@@ -1,0 +1,20 @@
+{
+  "id": "all_tm_hm_unlocker",
+  "title": "All TM & HM Unlocker",
+  "author": "FAFF0x",
+  "summary": "Automatically unlocks every Generation I TM and HM. TMs are stocked to 99 and HMs to 1 on every game load.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/all_tm_hm_unlocker_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.1.38 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}
