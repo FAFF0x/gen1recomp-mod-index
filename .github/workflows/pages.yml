@@ -4,13 +4,13 @@ on:
   push:
     branches: [main]
   schedule:
-    # Nightly: re-read every tracked repo's Releases so index.json follows
-    # version bumps without anyone opening a pull request.
-    - cron: '17 5 * * *'
+    # Check the ZIP repository every hour. Scheduled workflows can start a few
+    # minutes late when GitHub Actions is busy.
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -23,9 +23,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
+
+      - name: Synchronize FAFF0x ZIP mods
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MOD_SOURCE_REPO: FAFF0x/gen1recomp
+          MOD_SOURCE_REF: main
+          MOD_INDEX_AUTHOR: FAFF0x
+          FORCE_SYNC: ${{ github.event_name != 'schedule' }}
+        run: node scripts/sync-personal-mods.mjs
+
+      - name: Commit synchronized entries
+        run: |
+          changes=$(git status --porcelain -- mods .github/faff0x-source-state.json)
+          if [ -z "$changes" ]; then
+            echo "No metadata changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mods .github/faff0x-source-state.json
+          git commit -m "Sync FAFF0x mod ZIPs [skip ci]"
+          git push
 
       - name: Build index
         env:
@@ -39,7 +64,7 @@ jobs:
             echo
             node -e "const i=require('./site/data/index.json');
               console.log('- ' + i.count + ' mod(s), generated ' + i.generated_at);
-              for (const m of i.mods) console.log('- \`' + m.folder + '\` ' + (m.latest ? m.latest.version + ' (' + m.update_check + ')' : m.update_check));"
+              for (const m of i.mods) console.log('- \`' + m.folder + '\` ' + (m.latest ? m.latest.version + ' (' + m.update_check + ')' : m.version + ' (' + m.update_check + ')'));"
           } >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/configure-pages@v5
