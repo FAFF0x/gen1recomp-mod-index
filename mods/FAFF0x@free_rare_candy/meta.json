@@ -1,0 +1,16 @@
+{
+  "id": "free_rare_candy",
+  "title": "FREE RARE CANDY",
+  "author": "FAFF0x",
+  "summary": "Adds RARE CANDY to every standard Poké Mart and makes it completely free.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/free_rare_candy_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": false
+}

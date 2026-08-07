@@ -3,12 +3,12 @@
   "title": "NEW SPRITES",
   "author": "FAFF0x",
   "summary": "Replaces the large Pokemon preview artwork with the supplied full-color Gen 5 animated front/back sprite set. Animates Modern UI Box, Party, Summary and Pokedex previews through the public pokemon.sp…",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "categories": [
     "ART"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/new_sprites_v1.0.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/new_sprites_v1.0.1.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
