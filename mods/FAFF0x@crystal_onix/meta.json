@@ -1,0 +1,20 @@
+{
+  "id": "crystal_onix",
+  "title": "Crystal Onix: The Living Crystal",
+  "author": "FAFF0x",
+  "summary": "Adds Crystal Onix as a Rock/Ice Onix variant shown as #95C directly beneath #095 ONIX in both the stock Pokédex and Pokédex Plus (when installed), with a fully integrated quest and perfect-DV/max-Sta…",
+  "version": "1.0.8",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/crystal_onix_v1.0.8.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "profile": "content",
+  "affects_link": true,
+  "dependencies": [
+    "quest_system@>=1.0.3 <2.0.0"
+  ]
+}

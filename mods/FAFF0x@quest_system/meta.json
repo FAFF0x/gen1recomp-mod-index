@@ -3,13 +3,13 @@
   "title": "Quest System",
   "author": "FAFF0x",
   "summary": "Adds a QUESTS menu, active and completed quest logs, objectives, progress tracking, rewards and source-mod support.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "categories": [
     "LIBRARY",
     "UI"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/quest_system_v1.0.3.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/quest_system_v1.0.4.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
