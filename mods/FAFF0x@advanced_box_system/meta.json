@@ -1,0 +1,17 @@
+{
+  "id": "advanced_box_system",
+  "title": "Advanced Box System",
+  "author": "FAFF0x",
+  "summary": "Modernizes Bill's PC with instant box switching, direct party/box swaps, animated Pokemon row icons, and a rich selected-Pokemon stats/moves preview in Gen1 Modern UI.",
+  "version": "1.1.0",
+  "categories": [
+    "UI"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/advanced_box_system_v1.1.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "profile": "content",
+  "affects_link": true
+}
