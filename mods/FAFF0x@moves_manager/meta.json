@@ -3,13 +3,13 @@
   "title": "Moves Manager",
   "author": "FAFF0x",
   "summary": "Adds a party-menu move manager with technical move pages, reordering and move-memory replacement.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "categories": [
     "UI",
     "QOL"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/moves_manager_v1.0.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/moves_manager_v1.0.1.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",

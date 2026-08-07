@@ -3,12 +3,12 @@
   "title": "Kanto Achievements",
   "author": "FAFF0x",
   "summary": "Adds 100 obtainable achievements with a clear three-row START-menu interface, explicit incomplete-status filtering, a solid selection arrow, search/category fields, detail pages and unlock notificati…",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "categories": [
     "QOL"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/kanto_achievements_v1.0.5.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/kanto_achievements_v1.0.6.zip",
   "automatic_version_check": false,
   "api": 2,
   "game_version": ">=0.1.38 <2.0.0",

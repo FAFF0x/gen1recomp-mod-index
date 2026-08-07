@@ -3,13 +3,13 @@
   "title": "Modern Bag",
   "author": "FAFF0x",
   "summary": "Replaces the original Bag with categorized pockets, automatic sorting and quick search while removing the 20-item-type limit.",
-  "version": "1.5.0",
+  "version": "1.5.2",
   "categories": [
     "UI",
     "QOL"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/modern_bag_v1.5.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/modern_bag_v1.5.2.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",

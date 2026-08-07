@@ -3,13 +3,13 @@
   "title": "DV/EV Editor",
   "author": "FAFF0x",
   "summary": "Adds party-menu tools for editing Pokémon DVs and Stat EXP values.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "categories": [
     "TOOL",
     "QOL"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/dv_ev_editor_v1.0.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/dv_ev_editor_v1.0.1.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
