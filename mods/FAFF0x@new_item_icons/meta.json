@@ -1,0 +1,20 @@
+{
+  "id": "new_item_icons",
+  "title": "NEW ITEM ICONS",
+  "author": "FAFF0x",
+  "summary": "Adds full-color item sprites to Bag, Shop and PC item lists. TM/HM artwork is selected dynamically from the taught move's type.",
+  "version": "1.0.0",
+  "categories": [
+    "UI"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/new_item_icons_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.1.51 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}
