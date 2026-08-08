@@ -1,0 +1,21 @@
+{
+  "id": "performance_monitor",
+  "title": "Performance Monitor",
+  "author": "FAFF0x",
+  "summary": "Advanced FPS/per-mod fluidity profiler with automatic JSON/TXT diagnostic exports for Gen1Recomp.",
+  "version": "1.3.0",
+  "categories": [
+    "OTHER"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/performance_monitor_v1.3.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.1.51 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals",
+    "filesystem"
+  ]
+}

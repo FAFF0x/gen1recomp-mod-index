@@ -3,13 +3,13 @@
   "title": "The Sixth Bell",
   "author": "FAFF0x",
   "summary": "A supernatural Lavender Town and Pokémon Tower quest unlocked after obtaining six Badges.",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "categories": [
     "CONTENT",
     "GAMEPLAY"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/the_sixth_bell_v1.1.1.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/the_sixth_bell_v1.1.4.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
