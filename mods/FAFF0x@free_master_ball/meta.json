@@ -1,0 +1,17 @@
+{
+  "id": "free_master_ball",
+  "title": "Free Master Ball",
+  "author": "FAFF0x",
+  "summary": "Adds Master Ball to every Poké Mart and sets its buy price to 0.",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/free_master_ball_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "profile": "content",
+  "affects_link": false
+}

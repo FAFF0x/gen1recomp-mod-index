@@ -1,0 +1,20 @@
+{
+  "id": "nickname_changer",
+  "title": "Nickname Changer",
+  "author": "FAFF0x",
+  "summary": "Adds a RENAME option to the Pokémon party submenu so any party Pokémon can be nicknamed directly from the menu.",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/FAFF0x/gen1recomp",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/nickname_changer_v1.0.0.zip",
+  "automatic_version_check": false,
+  "api": 2,
+  "game_version": ">=0.1.75 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "permissions": [
+    "engine_internals"
+  ]
+}

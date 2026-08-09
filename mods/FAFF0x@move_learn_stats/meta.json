@@ -3,15 +3,15 @@
   "title": "Move Learn Stats",
   "author": "FAFF0x",
   "summary": "Shows POWER and maximum PP for the selected old move and the new move while choosing which move a Pokemon should forget.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "categories": [
     "QOL"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/move_learn_stats_v1.0.1.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/move_learn_stats_v1.0.2.zip",
   "automatic_version_check": false,
   "api": 2,
-  "game_version": ">=0.1.38 <2.0.0",
+  "game_version": "0.0.0-dev || >=0.1.38 <2.0.0",
   "profile": "content",
   "affects_link": false,
   "permissions": [

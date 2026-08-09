@@ -3,12 +3,12 @@
   "title": "NEW ICONS",
   "author": "FAFF0x",
   "summary": "Replaces all 151 Gen 1 party/menu Pokemon icons with the supplied full-color two-frame animated icon set, with Party, Box and Pokedex support; use Modern UI Icon Fix with the original Modern UI 0.8.x…",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "categories": [
     "ART"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/new_icons_v1.0.3.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/new_icons_v1.1.1.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
