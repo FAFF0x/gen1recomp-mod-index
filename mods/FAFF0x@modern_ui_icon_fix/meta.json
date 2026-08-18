@@ -3,17 +3,17 @@
   "title": "Modern UI Icon Fix",
   "author": "FAFF0x",
   "summary": "Runtime compatibility patch for Gen1 Modern UI 0.8.x: preserves full-color authored Pokemon icons and exposes them in stock Pokedex rows without modifying the original Modern UI mod.",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "categories": [
     "UI"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/modern_ui_fix_v1.0.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/modern_ui_fix_v1.2.3.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
   "affects_link": false,
   "dependencies": [
-    "gen1_modern_ui@>=0.8.1 <0.9.0"
+    "gen1_modern_ui@>=0.8.1 <0.10.0"
   ]
 }
