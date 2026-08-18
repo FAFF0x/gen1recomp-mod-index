@@ -3,13 +3,13 @@
   "title": "HM Anywhere",
   "author": "FAFF0x",
   "summary": "Allows owned HMs to be used from the field without teaching them to a Pokémon, while preserving Badge requirements.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "categories": [
     "GAMEPLAY",
     "QOL"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/hm_anywhere_v1.1.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/hm_anywhere_v1.2.0.zip",
   "automatic_version_check": false,
   "api": 2,
   "profile": "content",
