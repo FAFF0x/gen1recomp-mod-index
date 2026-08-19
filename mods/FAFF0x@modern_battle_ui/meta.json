@@ -3,12 +3,12 @@
   "title": "MODERN BATTLE UI",
   "author": "FAFF0x",
   "summary": "Standalone modern battle interface with event-based battle history, FIGHT effectiveness, external icon-mod compatibility, modern Party/Bag/Summary overlays, and full item descriptions in the battle B…",
-  "version": "1.3.0",
+  "version": "1.4.1",
   "categories": [
     "UI"
   ],
   "repo": "https://github.com/FAFF0x/gen1recomp",
-  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/modern_battle_ui_v1.3.0.zip",
+  "downloadURL": "https://raw.githubusercontent.com/FAFF0x/gen1recomp/main/modern_battle_ui_v1.4.1.zip",
   "automatic_version_check": false,
   "api": 2,
   "game_version": "0.0.0-dev || >=0.1.51 <2.0.0",
